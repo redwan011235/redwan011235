@@ -2,7 +2,7 @@
 #### Computer Science graduate driven by a deep interest in Data, ML, and AI.
 ![Computer Science graduate driven by a deep interest in Data, ML, and AI.](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/504005997_4115560482022695_7424067673854200209_n.webp?stp=dst-jpg_tt6&_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=W_hZF6w4JJcQ7kNvwEc9dEx&_nc_oc=AdlzVT4eQl5AKWNf5HvuTj3yAZ4Hn8oTJUIqPmmW4t0lBDAYuMcu92j3wZkOukxgaa8&_nc_zt=23&_nc_ht=scontent.fdac20-1.fna&_nc_gid=kfC3DfPTDA9QqSt63SnjSA&oh=00_AfPCmYj4KrDtKK_8JtH1_11q8AiSksQPaWVDm-0g0z3tlg&oe=68485B3D)
 
-Hi! I’m a data analyst passionate about turning data into insights. Skilled in Python, SQL, and Power BI, I create impactful dashboards and pivot tables to drive decisions. Fluent in English and Bangla, I enjoy working in diverse teams and solving complex problems. Always eager to learn and connect with fellow data enthusiasts!
+I’m a data analyst passionate about turning data into insights. Skilled in Python, SQL, and Power BI, I create impactful dashboards and pivot tables to drive decisions. Fluent in English and Bangla, I enjoy working in diverse teams and solving complex problems. Always eager to learn and connect with fellow data enthusiasts!
 
 Skills:  Excel/Power BI/SQL/Python (Pandas, NumPy, Matplotlib, Seaborn)/Jupyter Notebook/
 
