@@ -28,11 +28,11 @@
 <p>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" style="vertical-align:middle;"/>
-    
-  </a><a href="https://www.facebook.com/YOUR-FACEBOOK" target="_blank" rel="noopener noreferrer">
+    <p>
+    </a><a href="https://www.facebook.com/YOUR-FACEBOOK" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook" width="40" height="40" style="vertical-align:middle;"/>
-    
-  </a><a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank" rel="noopener noreferrer">
+    <p>
+     </a><a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40" height="40" style="vertical-align:middle;"/>
   </a>
 </p>
