@@ -14,16 +14,17 @@
 <h3>🌐 Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.facebook.com/YOUR-FACEBOOK" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook" width="40" height="40" style="margin-right: 10px;" />
+  <a href="https://www.facebook.com/YOUR-FACEBOOK" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook" width="40" height="40" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40" height="40" />
   </a>
 </p>
+
 
 
 
