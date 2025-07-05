@@ -11,7 +11,6 @@
 
 ## Connect with me:
 
-<h3>🌐 Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/redwanarefin/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40" style="vertical-align:middle;"/>
