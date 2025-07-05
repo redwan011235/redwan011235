@@ -5,8 +5,10 @@
 • 🧑‍💻 I’m open to collaborating on remote roles with multinational companies.  
 • 📧 To reach me, email me at [redwan.arefin011235@gmail.com](mailto:redwan.arefin011235@gmail.com)  
 • 🌐 Portfolio  
-• 📄 CV
-• [![Download CV](https://img.shields.io/badge/-Download%20CV-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/redwan011235/redwan011235/raw/main/Redwan_Arefin_CV.pdf)
+• ### 📄 CV
+
+[![View CV](https://img.shields.io/badge/-View%20CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/redwan011235/redwan011235/blob/main/Mohammad_Redwan_Arefin_Rifat_CV.pdf)
+
 
 
 
