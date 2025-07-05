@@ -22,6 +22,21 @@ Hello, I am Mohammad Redwan Arefin Rifat, a Data Analytics professional.
 </a>
 
 
+<h3>🌐 Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/your-facebook" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/your-instagram" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
+
+
+
 
 
 
