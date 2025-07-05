@@ -14,11 +14,11 @@
 <p>
   <a href="https://www.linkedin.com/in/redwanarefin/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="https://www.facebook.com/redwan.arefin011235/" target="_blank">
+  
+   href="https://www.facebook.com/redwan.arefin011235/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="40" height="40" />
-  </a>
-  <a href="https://www.instagram.com/redwan.arefin/" target="_blank">
+  
+   href="https://www.instagram.com/redwan.arefin/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" />
   </a>
 </p>
