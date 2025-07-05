@@ -7,6 +7,9 @@ Hello, I am Mohammad Redwan Arefin Rifat, a Data Analytics professional.
 • 🌐 Portfolio  
 • 📄 CV
 
+![Profile views](https://komarev.com/ghpvc/?username=redwan011235&color=blue)
+
+
 
 
 
