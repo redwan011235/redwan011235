@@ -1,4 +1,4 @@
-Hello, I am Mohammad Redwan Arefin Rifat, a Data Analytics professional.
+# Hello, I am Mohammad Redwan Arefin Rifat, a Data Analytics professional.
 
 • 🎓 I have completed my BSc in Computer Science from BRAC University.  
 • 🌱 I’m currently learning Advanced Data Analysis, Data Science, Machine Learning, Artificial Intelligence, NLP, and Computer Vision.  
@@ -11,7 +11,6 @@ Hello, I am Mohammad Redwan Arefin Rifat, a Data Analytics professional.
 
 ## Connect with me:
 
-<h3>🌐 Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/redwanarefin/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
