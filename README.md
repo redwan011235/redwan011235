@@ -1,4 +1,4 @@
-![](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/510969206_4131336193778457_6913607674230939229_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeEwctZ9mr7tdacftbg732MHtHHkv7FUnlG0ceS_sVSeUTMsWlMVQdIDS6P-A7RPCRl8dnQuf46dNB57kWTEJTx2&_nc_ohc=cAo2ZAqrU0AQ7kNvwEyeXk6&_nc_oc=AdmxWYBXyvl0WIEYRZ0I73wO6AG-ul83DAdpo6D-uuAkrTbZy5hrqfZS33ne56H5NGs&_nc_zt=23&_nc_ht=scontent.fdac20-1.fna&_nc_gid=eFWeKN_6nG6bawhUoTc0KA&oh=00_AfStlR9v2TaQrYkjIgGCDxtppve55hoJFPBduQ7pNamNiQ&oe=686ED77A)
+![](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/510969206_4131336193778457_6913607674230939229_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=ClOsxxzsLjwQ7kNvwG-_y3V&_nc_oc=Adm6c8yupGFSFFsOCsNyZcK4vMQhXS0D5plN02c6fF8-oqGaHhWpifC5_4sWhxRvzvA&_nc_zt=23&_nc_ht=scontent.fdac20-1.fna&_nc_gid=UE-ehwB1QjPEF7a5QrXzKg&oh=00_AfT5w2dMD7dYOgIjh0tAsZAs91ojtKUPxckQMlxx39vIVg&oe=6885793A)
 
 
 # Hello, I am Mohammad Redwan Arefin Rifat, a Data Analytics professional.
