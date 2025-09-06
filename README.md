@@ -6,7 +6,7 @@
 • 📧 To reach me, email me at [redwan.arefin011235@gmail.com](mailto:redwan.arefin011235@gmail.com)  
 • 🌐 Portfolio  
 
-[![Download CV](https://img.shields.io/badge/-Download%20CV-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/redwan011235/redwan011235/blob/main/CV%2C%20Mohammad%20Redwan%20Arefin%20Rifat.pdf)
+[![Download CV](https://img.shields.io/badge/-Download%20CV-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/redwan011235/redwan011235/blob/main/CV%2C%20%20Mohammad%20Redwan%20Arefin%20Rifat.pdf)
 
 
 
