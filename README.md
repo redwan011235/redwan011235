@@ -6,11 +6,11 @@
 • 📧 To reach me, email me at [redwan.arefin011235@gmail.com](mailto:redwan.arefin011235@gmail.com)  
 
 <a href="https://redwan011235.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 
-  [![Download CV](https://img.shields.io/badge/-Download%20CV-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/redwan011235/redwan011235/blob/main/CV%2C%20%20Mohammad%20Redwan%20Arefin%20Rifat.pdf)
+ [![Download CV](https://img.shields.io/badge/-Download%20CV-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/redwan011235/redwan011235/blob/main/CV%2C%20%20Mohammad%20Redwan%20Arefin%20Rifat.pdf)
 
 
 
