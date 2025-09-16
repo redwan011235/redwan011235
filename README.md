@@ -4,7 +4,8 @@
 • 🌱 I’m currently learning Advanced Data Analysis, Data Science, Machine Learning, Artificial Intelligence, NLP & Computer Vision.  
 • 🧑‍💻 I’m open to collaborating on remote roles with multinational companies.  
 • 📧 To reach me, email me at [redwan.arefin011235@gmail.com](mailto:redwan.arefin011235@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Download%20CV-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio%20-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]
 (https://redwan011235.github.io/)  
 
 [![Download CV](https://img.shields.io/badge/-Download%20CV-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/redwan011235/redwan011235/blob/main/CV%2C%20%20Mohammad%20Redwan%20Arefin%20Rifat.pdf)
