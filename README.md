@@ -10,7 +10,7 @@
 </a>
 
 
- [![Download CV](https://img.shields.io/badge/-Download%20CV-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/redwan011235/redwan011235/blob/main/CV%2C%20%20Mohammad%20Redwan%20Arefin%20Rifat.pdf)
+ [![Download CV](https://img.shields.io/badge/-Download%20Resume-purple?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/redwan011235/redwan011235/blob/main/Resume%2C%20Mohammad%20Redwan%20Arefin%20Rifat.pdf)
 
 
 
